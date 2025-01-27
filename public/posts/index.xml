@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on haskelldutra</title>
+    <link>https://haskelldutra.github.io/posts/</link>
+    <description>Recent content in Posts on haskelldutra</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://haskelldutra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from FreeBSD RELEASE to CURRENT</title>
+      <link>https://haskelldutra.github.io/posts/freebsd-pkgbase/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://haskelldutra.github.io/posts/freebsd-pkgbase/</guid>
+      <description>&lt;p&gt;Migrating from FreeBSD RELEASE to CURRENT without compiling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deploying an EKS cluster using Terraform</title>
+      <link>https://haskelldutra.github.io/posts/eks-terraform-setup/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://haskelldutra.github.io/posts/eks-terraform-setup/</guid>
+      <description>&lt;p&gt;In this post, I will explain how to deploy an EKS cluster using Terraform and the public&#xA;module of the project terraform-aws-module.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
