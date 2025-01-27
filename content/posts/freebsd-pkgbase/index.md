@@ -9,7 +9,7 @@ Migrating from FreeBSD RELEASE to CURRENT without compiling.
 
 ## RELEASE neofetch
 
-![](http://localhost:1313/freebsd-release.png)
+![](https://haskelldutra.github.io/freebsd-release.png)
 
 ## Pkgbase
 
@@ -61,7 +61,7 @@ find / -name \*.pkgsave -delete
 rm /boot/kernel/linker.hints
 ```
 
-![](http://localhost:1313/freebsd-current.png)
+![](https://haskelldutra.github.io/freebsd-current.png)
 
 ## Font
 
