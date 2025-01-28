@@ -63,6 +63,6 @@ rm /boot/kernel/linker.hints
 
 ![](https://haskelldutra.github.io/freebsd-current.png)
 
-## Font
+## Reference
 
 https://wiki.freebsd.org/PkgBase
